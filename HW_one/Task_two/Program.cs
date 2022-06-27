@@ -11,7 +11,7 @@ c = Convert.ToInt32(Console.ReadLine());
 
 if(a >= b)
 	max = a;
-else
+while
 	max = b;
 if	
 (c >= b)
