@@ -17,8 +17,9 @@ double SortingArray(double[] array)
     double min = array[0];
     for(int i = 0; i < array.Length; i++)
     {
-        if(array[i] > max) array[i] = max;
-        if(array[i] < min) array[i] = min;}
+        if(array[i] > max) max = array[i];
+        if(array[i] < min) min = array[i];
+    }
     double diff = max - min;
         return diff;
     }
