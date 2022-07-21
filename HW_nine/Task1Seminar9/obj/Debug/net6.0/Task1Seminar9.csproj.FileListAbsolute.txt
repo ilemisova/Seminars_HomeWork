@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\bin\Debug\net6.0\Task1Seminar9.exe
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\bin\Debug\net6.0\Task1Seminar9.deps.json
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\bin\Debug\net6.0\Task1Seminar9.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\bin\Debug\net6.0\Task1Seminar9.dll
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\bin\Debug\net6.0\Task1Seminar9.pdb
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.dll
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\refint\Task1Seminar9.dll
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.pdb
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\Task1Seminar9.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_nine\Task1Seminar9\obj\Debug\net6.0\ref\Task1Seminar9.dll
