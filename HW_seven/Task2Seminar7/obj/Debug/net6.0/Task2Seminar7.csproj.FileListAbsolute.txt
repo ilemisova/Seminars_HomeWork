@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\bin\Debug\net6.0\Task2Seminar7.exe
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\bin\Debug\net6.0\Task2Seminar7.deps.json
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\bin\Debug\net6.0\Task2Seminar7.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\bin\Debug\net6.0\Task2Seminar7.dll
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\bin\Debug\net6.0\Task2Seminar7.pdb
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.dll
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\refint\Task2Seminar7.dll
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.pdb
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\Task2Seminar7.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Homeworks\HW_seven\Task2Seminar7\obj\Debug\net6.0\ref\Task2Seminar7.dll
